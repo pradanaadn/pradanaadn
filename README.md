@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Putu Gede Pradana Adnyana!<br><br>I'm an Electrical Engineering student with a focus on Computer Engineering and Artificial Intelligence, expected to graduate from Udayana University in August 2024. Passionate about leveraging technology to solve real-world problems, I specialize in machine learning, software development, and IoT systems.<br><br>🚀 What I do:<br><br>💡 Applying technology to solve complex problems and improve everyday processes.<br>💻 Working across various domains like software development, AI, and IoT.<br>🌐 Building and optimizing applications to enhance functionality and user experience.<br>🤝 Leading and collaborating on projects from start to finish, ensuring efficient and effective solutions.
+👋 Hi, I am an Electrical Engineering student focusing on Computer Engineering and Artificial Intelligence. I have enthusiasm for the implementation of technology in solving real-world problems. My skills include machine learning, software development, and IoT systems
 
 
 ## 🌐 Socials:
