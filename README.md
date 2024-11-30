@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>I’m passionate about using technology to solve real-world problems. 💡 With a background in machine learning and software development, I enjoy designing and building solutions that make a real impact. 🚀 I like to combine my technical skills with a practical, problem-solving approach to create efficient, scalable systems that can meet today’s challenges and adapt to the future. 🌍
+<br>Have passion and love in Automation. Currently still adventuring in learning and project AI. 🌍
 
 
 ## 🌐 Socials:
