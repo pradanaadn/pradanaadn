@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Have passion and love in Automation. Currently still adventuring in learning and project AI. 🌍
+<br>🌟 Passionate about automation and deeply exploring the world of AI through continuous learning and exciting projects! 💡✨
 
 
 ## 🌐 Socials:
