@@ -1,3 +1,4 @@
+
 name: generate-and-upload-card
 
 on:
@@ -25,7 +26,7 @@ jobs:
         uses: LuciNyan/pixel-profile/action@main
         with:
           outputs: |
-            dist/github-stats?username=pradanaadn&screen_effect=false&theme=road_trip&dithering=true&hide=avatar&include_all_commits=true
+            dist/github-stats?username=pradanaadn&screen_effect=false&theme=fuji&dithering=true&hide=avatar&include_all_commits=true
             dist/github-stats-dark?username=pradanaadn&theme=crt&include_all_commits=true
 
       # push the content of <build_dir> to a branch
