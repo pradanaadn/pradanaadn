@@ -27,7 +27,7 @@ jobs:
           outputs: |
             dist/github-stats?username=pradanaadn&screen_effect=false&theme=fuji&dithering=true&hide=avatar&include_all_commits=true
             dist/github-stats-dark?username=pradanaadn&theme=crt&include_all_commits=true
-          token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
