@@ -11,7 +11,7 @@
 <ul>
   <li><strong>Production-ready ML & LLM</strong> — Deliver reliable, maintainable models and services.</li>
   <li><strong>Scale & Reliability</strong> — Turn prototypes into efficient, business-impactful solutions.</li>
-  <li><strong>AI Developemnet · MLOps · Cloud</strong> — Focused on automation, CI/CD, and performance optimization.</li>
+  <li><strong>AI Developement · MLOps · Cloud</strong> — Focused on automation, CI/CD, and performance optimization.</li>
 </ul>
 
 
