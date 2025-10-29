@@ -4,11 +4,18 @@
   <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=pradanaadn&screen_effect=false&theme=fuji&hide=avatar&dithering=true">
 </picture>
 
-## Hi, I'm Putu Gede Pradana Adnyana 👋
+<h2>Hi, I'm Putu Gede Pradana Adnyana</h2>
 
-AI/ML engineer in Bali who loves learning new tools, building practical ML/LLM projects, and turning ideas into playful demos.
+<p><strong>AI/ML Engineer</strong> focused on delivering <strong>production-ready machine learning</strong> and <strong>LLM applications</strong>.</p>
 
-Contact: work.pradanaadn@gmail.com 
+<ul>
+  <li><strong>Production-ready ML & LLM</strong> — Deliver reliable, maintainable models and services.</li>
+  <li><strong>Scale & Reliability</strong> — Turn prototypes into efficient, business-impactful solutions.</li>
+  <li><strong>AI Developemnet · MLOps · Cloud</strong> — Focused on automation, CI/CD, and performance optimization.</li>
+</ul>
+
+<p>work.pradanaadn@gmail.com</p>
+
 
 
 <p align="center">
