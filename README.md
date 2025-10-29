@@ -14,9 +14,6 @@
   <li><strong>AI Developemnet · MLOps · Cloud</strong> — Focused on automation, CI/CD, and performance optimization.</li>
 </ul>
 
-<p>work.pradanaadn@gmail.com</p>
-
-
 
 <p align="center">
   <img src="assets/giphy.gif" alt="GIF description" width="200">
