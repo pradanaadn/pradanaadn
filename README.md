@@ -18,3 +18,5 @@
 <p align="center">
   <img src="assets/giphy.gif" alt="GIF description" width="200">
 </p>
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/pradanaadn?theme=chartreuse&font=Karma&ext=contest)
