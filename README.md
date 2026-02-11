@@ -8,11 +8,11 @@
 
 <p><strong>AI/ML Engineer</strong> focused on delivering <strong>production-ready machine learning</strong> and <strong>LLM applications</strong>.</p>
 
-<ul>
+<!-- <ul>
   <li><strong>Production-ready ML & LLM</strong> — Deliver reliable, maintainable models and services.</li>
   <li><strong>Scale & Reliability</strong> — Turn prototypes into efficient, business-impactful solutions.</li>
   <li><strong>AI Developement · MLOps · Cloud</strong> — Focused on automation, CI/CD, and performance optimization.</li>
-</ul>
+</ul> -->
 
 
 <p align="center">
